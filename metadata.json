@@ -1,0 +1,5 @@
+{
+  "name": "SoilSense AI: Fertility Forecaster",
+  "description": "An advanced web application that leverages machine learning to map and forecast soil fertility based on user-uploaded datasets, providing actionable insights for precision agriculture.",
+  "requestFramePermissions": []
+}
